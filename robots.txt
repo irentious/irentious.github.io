@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irentious.github.io/sitemap
+Sitemap: https://irentious.github.io/app/sitemap
+Sitemap: https://irentious.github.io/assets/sitemap
+Sitemap: https://irentious.github.io/css/sitemap
+Sitemap: https://irentious.github.io/includes/sitemap
+Sitemap: https://irentious.github.io/item/sitemap
+Sitemap: https://irentious.github.io/src/sitemap
